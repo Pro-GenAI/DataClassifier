@@ -1,0 +1,6 @@
+pytest
+torch
+transformers
+spacy
+fasttext
+huggingface-hub

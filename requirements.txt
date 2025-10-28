@@ -4,3 +4,4 @@ transformers
 spacy
 fasttext
 huggingface-hub
+nltk

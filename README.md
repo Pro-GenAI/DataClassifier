@@ -1,13 +1,15 @@
 <img src="./assets/project_logo.jpg" alt="Project logo" width="270px" align="left"/>
 <!-- $ convert logo_large.png -resize 270x270 project_logo.jpg -->
 
-# Data Classifier; An AI-driven approach to Label LLM Training Data
+# Data Classifier: An AI-driven approach to Label LLM Training Data
 [![AI](https://img.shields.io/badge/AI-C21B00?style=for-the-badge&logo=openaigym&logoColor=white)]()
 [![LLMs](https://img.shields.io/badge/LLMs-1A535C?style=for-the-badge&logo=openai&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)]()
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-darkgreen.svg?style=for-the-badge&logo=github&logoColor=white)](./LICENSE.md)
 
 This repository contains a rule-based data classifier to label LLM training/fine-tuning datasets into various categories such as unsafe, spammy, sensitive, etc.
+
+Inspired by my past work on [AutoPureData](https://github.com/Pro-GenAI/AutoPureData).
 
 ### Highlights
 

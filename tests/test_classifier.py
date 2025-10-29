@@ -1,5 +1,5 @@
 import json
-from data_classifier.classifier import classify, classify_file
+from classifier import classify, classify_file
 import tempfile
 import os
 

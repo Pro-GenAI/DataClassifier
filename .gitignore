@@ -3,3 +3,4 @@
 TODO.md
 __pycache__/
 .deepeval/
+.cache_*
